@@ -1,20 +1,20 @@
 {
-  "name": "r-script",
-  "version": "0.0.3",
-  "description": "A simple little module for passing data from NodeJS to R (and back again).",
+  "name": "r-script-bindall",
+  "version": "0.0.1",
+  "description": "Fork of 'A simple little module for passing data from NodeJS to R (and back again).' by Josh Katz",
   "keywords": [
     "R",
     "rstats",
     "statistics"
   ],
-  "homepage": "http://github.com/joshkatz/r-script",
-  "bugs": "http://github.com/joshkatz/r-script/issues",
+  "homepage": "http://github.com/covall/r-script",
+  "bugs": "http://github.com/covall/r-script/issues",
   "license": "MIT",
   "author": {
     "name": "Josh Katz"
   },
   "main": "index.js",
-  "repository": "joshkatz/r-script",
+  "repository": "covall/r-script",
   "dependencies": {
     "underscore": "^1.8.3"
   },
